@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-25T18:21:03 IST" name="Default suite" finished-at="2023-05-25T18:21:44 IST" duration-ms="40506">
+    <groups>
+    </groups>
+    <test started-at="2023-05-25T18:21:03 IST" name="Default test" finished-at="2023-05-25T18:21:44 IST" duration-ms="40506">
+      <class name="tests.PageObjectDataProviderTest2">
+        <test-method signature="simpleFormTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PageObjectDataProviderTest2@5562c41e]" started-at="2023-05-25T18:21:07 IST" name="simpleFormTest" data-provider="tests" finished-at="2023-05-25T18:21:19 IST" duration-ms="11832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung mobiles]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Akshaya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormTest -->
+        <test-method signature="simpleFormTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PageObjectDataProviderTest2@5562c41e]" started-at="2023-05-25T18:21:19 IST" name="simpleFormTest" data-provider="tests" finished-at="2023-05-25T18:21:32 IST" duration-ms="13026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone mobiles]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9786173189]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user@456]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Aswin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormTest -->
+        <test-method signature="simpleFormTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.PageObjectDataProviderTest2@5562c41e]" started-at="2023-05-25T18:21:32 IST" name="simpleFormTest" data-provider="tests" finished-at="2023-05-25T18:21:44 IST" duration-ms="11541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[redme mobiles]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9889019001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user@891]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Aakash]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleFormTest -->
+      </class> <!-- tests.PageObjectDataProviderTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
